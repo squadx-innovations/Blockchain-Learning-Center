@@ -1,0 +1,14 @@
+In this solidity contract, we will help you make a fundraising contract from scratch. Few of the real use cases of this contract can be in the applications where there is a need for transparency in fund transfer.
+Following are the organizations that can make an application based on this contract:
+
+1. Non-Profit organizations (NPOs)
+2. Non-Government Organizations (NGOs)
+3. Fundraising platforms for startups, etc.
+
+# Description
+
+Below mentioned are the points that have been considered while writing this contract but are not limited to these. A user may also add his/her logic while making this smart contract.
+There is no limit to raising the funds.
+1. Anyone can add any amount.
+2. The owner’s address is hardcoded that allows only him/her to withdraw funds at any point in time.
+3. Anyone can view the current balance in the contract.
