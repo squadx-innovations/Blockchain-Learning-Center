@@ -1,0 +1,11 @@
+# What is Solidity ?
+
+Solidity is a statically typed programming language introduced by the Ethereum foundation in 2015 that makes it possible to create decentralized applications on top of Ethereum blockchain, either to be used for creating another cryptocurrency token or for any other use case in which blockchain can have an essential role.
+
+Solidity was influenced by C++, Python and JavaScript and is designed to target the Ethereum Virtual Machine (EVM). Solidity is statically typed, supports inheritance, libraries and complex user-defined types among other features. With Solidity you can create contracts for uses such as voting, crowdfunding, blind auctions, and multi-signature wallets.
+
+
+# What is Smart Contract ?
+A smart contract is a contract implemented, deployed and executed within Ethereum environment. Smart contracts are digitization of the legal contracts. They are deployed, stored and executed within the Ethereum Virtual machine and can store data.
+
+The data stored can be used to record information, fact, associations, balances and any other information needed to implement logic for real-world contracts. A smart contract can call another contract just like an Object-oriented object to create and use objects of another class. Think of smart contract as a small program consisting of functions. You can create an instance of the contract and invoke functions to view and update contract data along with execution of some logic.
